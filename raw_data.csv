@@ -1,0 +1,10 @@
+cust_id,join_date,order_total,satisfaction_score,product_category,feedback_text
+C-1001,2024-03-15,120.50,4.5,Electronics,"Great product, fast shipping!"
+C-1002,2023-07-22,75.00,5,Electronics,"Love my new gadget."
+C-1003,2024-05-15,25.50,,Books,"The delivery took a while."
+C-1004,2023-07-22,75.00,5.0,Electronics,"Love my new gadget."
+C-1005,,50.00,,Apparel,"The shirt was too small."
+C-1006,2024-04-10,99.00,4.8,Electronics,"Good item, but box was damaged."
+C-1007,2024-09-01,,,Electronics,"Excellent service"
+C-1008,2024-06-20,250.75,,Electronics,"The device keeps overheating."
+C-1009,2024-06-20,250.75,,Electronics,"The device keeps overheating."
